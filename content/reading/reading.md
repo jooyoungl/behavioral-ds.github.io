@@ -11,7 +11,7 @@ design:
  columns: "1"
 ---
 
-## Schedule 2023
+## Schedule 2024
 {{< reading-csv >}}
 
 [2023 Archive](/reading2023)
