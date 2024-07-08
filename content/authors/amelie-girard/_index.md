@@ -10,13 +10,21 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD student
+role: PhD student @UTS
 
 # Organizations/Affiliations
 organizations:
 - name: University of Technology Sydney
 
 # Short bio (displayed in user profile at end of posts)
+body: | 
+
+  Amelie studies the gap between prediction and explanation in decision making.
+
+  **Position at UTS:** Amelie was a PhD student with the Behavioral Data Science lab in UTS.
+
+  **Next position after UTS:** Amelie switched her research focus and continued her PhD at UTS, under the supervision of [Massimo Piccardi](https://profiles.uts.edu.au/Massimo.Piccardi).
+  
 bio: Amelie studies the gap between prediction and explanation in decision making
 
 interests:
@@ -57,5 +65,5 @@ social:
 #                  "Visitors",
 #                  "Alumni"]
 user_groups:
-- PhD Students
+- Alumni
 ---

@@ -23,7 +23,7 @@ body: |
 
   Alexander is a research assistant studying information diffusion and Hawkes processes at University of Technology Sydney. He also works with Data61 and the Australian National University on fairness and boosting.
 
-  **Position at UTS:** Alex was a research assitant with the Behavioral Data Science lab in UTS.
+  **Position at UTS:** Alex was a research assistant with the Behavioral Data Science lab in UTS.
 
   **Next position after UTS:** Alex started a PhD at the Australian National University, under the supervision of Lexing Xie and Richard Nock.
   
