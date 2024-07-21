@@ -1102,10 +1102,25 @@
    abstract = {The spread of content on social media is shaped by intertwining factors on three levels: the source, the content itself, and the pathways of content spread. At the lowest level, the popularity of the sharing user determines its eventual reach. However, higher-level factors such as the nature of the online item and the credibility of its source also play crucial roles in determining how widely and rapidly the online item spreads. In this work, we propose the Bayesian Mixture Hawkes (BMH) model to jointly learn the influence of source, content and spread. We formulate the BMH model as a hierarchical mixture model of separable Hawkes processes, accommodating different classes of Hawkes dynamics and the influence of feature sets on these classes. We test the BMH model on two learning tasks, cold-start popularity prediction and temporal profile generalization performance, applying to two real-world retweet cascade datasets referencing articles from controversial and traditional media publishers. The BMH model outperforms the state-of-the-art models and predictive baselines on both datasets and utilizes cascade- and item-level information better than the alternatives. Lastly, we perform a counter-factual analysis where we apply the trained publisher-level BMH models to a set of article headlines and show that effectiveness of headline writing style (neutral, clickbait, inflammatory) varies across publishers. The BMH model unveils differences in style effectiveness between controversial and reputable publishers, where we find clickbait to be notably more effective for reputable publishers as opposed to controversial ones, which links to the latter's overuse of clickbait.},
    author = {Pio Calderon and Marian-Andrei Rizoiu},
    city = {Vilnius, Lithuania},
-   booktitle = {European Conference on Machine Learning and Data Mining},
+   booktitle = {European Conference on Machine Learning and Data Mining (ECML-PKDD)},
    month = {9},
    title = {What Drives Online Popularity: Author, Content or Sharers? Estimating Spread Dynamics with Bayesian Mixture Hawkes},
    url_Paper = {https://arxiv.org/pdf/2406.03390},
    year = {2024},
 }
+
+@article{Yuan2024,
+   abstract = {Automatic identification of hateful and abusive content is vital in combating the spread of harmful online content and its damaging effects. Most existing works evaluate models by examining the generalization error on train-test splits on hate speech datasets. These datasets often differ in their definitions and labeling criteria, leading to poor model performance when predicting across new domains and datasets. In this work, we propose a new Multi-task Learning (MTL) pipeline that utilizes MTL to train simultaneously across multiple hate speech datasets to construct a more encompassing classification model. We simulate evaluation on new previously unseen datasets by adopting a leave-one-out scheme in which we omit a target dataset from training and jointly train on the other datasets. Our results consistently outperform a large sample of existing work. We show strong results when examining generalization error in train-test splits and substantial improvements when predicting on previously unseen datasets. Furthermore, we assemble a novel dataset, dubbed PubFigs, focusing on the problematic speech of American Public Political Figures. We automatically detect problematic speech in the $305,235$ tweets in PubFigs, and we uncover insights into the posting behaviors of public figures.},
+   author = {Lanqin Yuan and Marian-Andrei Rizoiu},
+   doi = {10.1016/j.csl.2024.101690},
+   issn = {08852308},
+   journal = {Computer Speech \& Language},
+   month = {7},
+   pages = {101690},
+   title = {Generalizing hate speech detection using multi-task learning: A case study of political public figures},
+   url = {https://doi.org/10.1016/j.csl.2024.101690},
+   url_Paper = {https://arxiv.org/pdf/2208.10598},
+   year = {2024},
+}
+
 
