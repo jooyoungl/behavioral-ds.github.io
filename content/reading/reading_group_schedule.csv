@@ -16,9 +16,11 @@ Date,Presenter,Paper,Why should we care,Appear in,Repo,Blogs
 07/08/24,[Frankie Yuan](../authors/lanqin-yuan/),"[Temporal dynamics of coordinated online behavior: Stability, archetypes, and influence](https://www.pnas.org/doi/abs/10.1073/pnas.2307038121)","This paper examines temporal change in online coordinated communities and introduces temporal multiplex networks as a means of dynamically identifying communities engaging in coordinated behaviour leading up to elections in the UK and the US.",PNAS,,
 21/08/24,[Pio Calderon](../authors/pio-calderon/),ECML-PKDD24 Talk Dry Run,,,,
 04/09/24,[Lin Tian](../authors/lin-tian/),[From Word Models to World Models: Translating from Natural Language to the Probabilistic Language of Thought](https://arxiv.org/abs/2306.12672),This paper takes you to the world model. How does language inform our downstream thinking? In particular how do humans make meaning from language--and how can we leverage a theory of linguistic meaning to build machines that think in more human-like ways? In this paper they propose rational meaning construction a computational framework for language-informed thinking that combines neural language models with probabilistic models for rational inference.,[NeurIPS'23] (https://proceedings.neurips.cc/paper_files/paper/2023/file/f9f54762cbb4fe4dbffdd4f792c31221-Paper-Conference.pdf) [NeurIPS'23](https://proceedings.neurips.cc/paper_files/paper/2023/file/21f7b745f73ce0d1f9bcea7f40b1388e-Paper-Conference.pdf),,
-18/09/24,[Marian-Andrei Rizoiu](../authors/ma-rizoiu/),[Unmasking the Web of Deceit: Uncovering Coordinated Activity to Expose Information Operations on Twitter](https://arxiv.org/pdf/2310.09884),This paper delves into the detection of key players driving IOs by employing similarity graphs constructed from behavioral pattern data.,[WWW’24](https://dl.acm.org/doi/10.1145/3589334.3645529),,
-02/10/24,[Elaine Gong](../authors/xian-gong/),,,,,
-16/10/24,[Frankie Yuan](../authors/lanqin-yuan/),,,,,
-30/10/24,[Jooyoung Lee](../authors/jooyoung-lee/),,,,,
-13/11/24,[Lin Tian](../authors/lin-tian/),,,,,
-27/12/24,[Elaine Gong](../authors/xian-gong/),,,,,
+18/09/24,Canceled,,,,,
+02/10/24,Canceled,,,,,
+16/10/24,[Matthew Ghannoum](../authors/matthew-ghannoum/),Final Presentation,,,,
+30/10/24,Canceled,,,,,
+13/11/24,Canceled,,,,,
+27/11/24,[Marian-Andrei Rizoiu](../authors/ma-rizoiu/),[Unmasking the Web of Deceit: Uncovering Coordinated Activity to Expose Information Operations on Twitter](https://arxiv.org/pdf/2310.09884),This paper delves into the detection of key players driving IOs by employing similarity graphs constructed from behavioral pattern data.,[WWW’24](https://dl.acm.org/doi/10.1145/3589334.3645529),,
+
+
