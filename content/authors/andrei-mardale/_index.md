@@ -4,7 +4,7 @@ name: Andrei Mardale
 
 # Username (this should match the folder name)
 authors:
-- andrei-law
+- andrei-mardale
 
 # Is this the primary user of the site?
 superuser: false

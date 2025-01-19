@@ -23,8 +23,8 @@ body: |
     
     Marian-Andrei Rizoiu is an Associate Professor leading the [Behavioral Data Science lab](https://www.behavioral-ds.science/) at the University of Technology Sydney. 
     His interdisciplinary research crosses computer and social sciences, blending psycholinguistics, digital communication and stochastic modelling to understand human attention dynamics in the online environment, the emergence of influence and opinion polarization.
-    Marian-Andrei is the recipient of the prestigious Excellence Award and Academic of the Year at the [2023 Australian Defence Industry Awards](https://www.defenceconnect.com.au/australian-defence-industry-awards/winners/2023-winners-and-finalists).
-    He currently leads grants worth $1.8 million from the Commonwealth of Australia to detect and model the spread of mis- and disinformation and its weaponized counterparts – information and influence operations.
+    Marian-Andrei is the recipient of the prestigious Excellence Award and Academic of the Year at the [2023 Australian Defence Industry Awards](https://www.defenceconnect.com.au/australian-defence-industry-awards/winners/2023-winners-and-finalists) and a finalist of the distinguished [Australian Museum Eureka Prizes](https://australian.museum/get-involved/eureka-prizes/2024-eureka-prizes-finalists/) for Outstanding Science in Safeguarding Australia.
+    He currently leads grants worth $5.9 million from the Commonwealth of Australia to detect and model the spread of mis- and disinformation and its weaponized counterparts – information and influence operations.
 
     Marian-Andrei's research has made several key contributions to online popularity prediction, real-time tracking and countering disinformation campaigns, and understanding shortages and mismatches in labour markets.
     First, he developed theoretical models for online information diffusion, which can account for complex social phenomena. 
