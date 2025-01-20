@@ -14,6 +14,8 @@ design:
 ## Schedule 2024
 {{< reading-csv >}}
 
+[2024 Archive](/reading2024)
+
 [2023 Archive](/reading2023)
 
 [2022 Archive](/reading2022)

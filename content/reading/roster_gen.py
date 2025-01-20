@@ -6,23 +6,22 @@ import holidays
 # its slightly hacky but it works -_('_')_-
 
 # in order of roster
-names = ["Marian-Andrei Rizoiu",
-         #"Rohit Ram",
-         #"Amelie Girard",
-         "Elaine Gong",
-         "Pio Calderon",
-         # "Daniela Elia",
-         "Frankie Yuan",
-         "Jooyoung Lee"
+names = [
+         "[Jooyoung Lee](../authors/jooyoung-lee/)",
+         "[Elaine Gong](../authors/xian-gong/)",
+         "[Frankie Yuan](../authors/lanqin-yuan/)",
+         "[Lin Tian](../authors/lin-tian/)",
+         "[Marian-Andrei Rizoiu](../authors/ma-rizoiu/)",
+         #"[Pio Calderon](../authors/pio-calderon/)",
          ]
 
 # start date
-date_object = date(2024, 1, 22)
-date_object += timedelta(days=1-date_object.isoweekday())
+date_object = date(2025, 1, 22)
+date_object += timedelta(days=3-date_object.isoweekday())
 slots = []
 holiday_dates = set()
 
-while date_object.year == 2024:
+while date_object.year == 2025:
     slots.append(date_object)
     print()
     if date_object in holidays.AU(subdiv="NSW"):
