@@ -35,6 +35,7 @@ body: |
     Individuals can use these recommender systems to ask: "What jobs can I readily perform based on my current skills?" and "What skills should I acquire to transition to a new job?"  
 
     Marian-Andrei's research receives funding from selective funders such as 
+    the Australia'a [Advanced Strategic Capabilities Accelerator](https://www.asca.gov.au/),
     [Meta (Facebook) Research](https://research.facebook.com/), 
     [Defence Science and Technology Group (DSTG)](https://www.dst.defence.gov.au/), 
     [The Department of Home Affairs](https://www.homeaffairs.gov.au/) and 
